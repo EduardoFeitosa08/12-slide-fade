@@ -36,16 +36,16 @@ body{
 
 @keyframes slider {
     0%, 33% {
-        background-image: url(./img/olhos-gato.jpg);
-        --text-description: "Olhos de gato!"
+        background-image: url(./img/saida.webp);
+        --text-description: "Me lembra do primeiro dia que vim para o SENAI!"
     }
     34%, 66% {
-        background-image: url(./img/olhos-cachorro.jpg);
-        --text-description: "Olhos de cachorro!"
+        background-image: url(./img/cantina.webp);
+        --text-description: "Estar aqui me deixa com mais fome!"
     }
     67%, 100% {
-        background-image: url(./img/olhos-aguia.jpg);
-        --text-description: "Olhos de aguia!"
+        background-image: url(./img/industria2.webp);
+        --text-description: "O primeiro lugar de aula que visitei!"
     }
 }
 @keyframes fade {
